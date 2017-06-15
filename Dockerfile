@@ -34,3 +34,4 @@ RUN ln -s /usr/lib/x86_64-linux-gnu/libbamtools.so.2.4.0 /usr/lib/x86_64-linux-g
 
 RUN git clone https://github.com/cmhill/VALET.git /opt/VALET
 ENV VALET /opt/VALET/src/py/
+
